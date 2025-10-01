@@ -1,3 +1,4 @@
+
 package com.example;
 
 import org.springframework.boot.SpringApplication;
@@ -17,4 +18,3 @@ public class JavaProjectJenkinTestApplication extends SpringBootServletInitializ
         SpringApplication.run(JavaProjectJenkinTestApplication.class, args);
     }
 }
-
